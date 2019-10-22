@@ -1,5 +1,5 @@
-*** bootable/recovery/recovery_ui/device.cpp.orig	2019-10-21 23:46:58.292352000 -0300
---- bootable/recovery/recovery_ui/device.cpp	2019-10-21 23:47:32.620983607 -0300
+*** a/bootable/recovery/recovery_ui/device.cpp	2019-10-21 23:46:58.292352000 -0300
+--- b/bootable/recovery/recovery_ui/device.cpp	2019-10-21 23:47:32.620983607 -0300
 ***************
 *** 26,36 ****
     { "Enter fastboot", Device::ENTER_FASTBOOT },
