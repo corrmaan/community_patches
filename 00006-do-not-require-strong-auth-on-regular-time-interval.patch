@@ -17,8 +17,8 @@
   
       /**
        * A {@link android.os.Parcelable} extra of type {@link android.os.PersistableBundle} that
-*** frameworks/base/services/core/java/com/android/server/locksettings/LockSettingsStrongAuth.java.orig	2019-10-22 00:01:54.000000000 -0300
---- frameworks/base/services/core/java/com/android/server/locksettings/LockSettingsStrongAuth.java	2019-10-22 00:06:03.744198394 -0300
+*** a/frameworks/base/services/core/java/com/android/server/locksettings/LockSettingsStrongAuth.java	2019-10-22 00:01:54.000000000 -0300
+--- b/frameworks/base/services/core/java/com/android/server/locksettings/LockSettingsStrongAuth.java	2019-10-22 00:06:03.744198394 -0300
 ***************
 *** 120,137 ****
       private void handleScheduleStrongAuthTimeout(int userId) {
